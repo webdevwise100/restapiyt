@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Refer to Youtube Series about creating REST API with encryption and authentication below
+https://www.youtube.com/watch?v=RCi6EbNxBa8&list=PLap-l7PiZ8FkQl4Tn4eNr4375zy2ReSlb&pp=gAQBiAQB
+
+In this Project, we'll be using:
+NextJS13 -> Framework
+PlanetScale -> MySQL Database
+Prisma -> ORM
+Bcrypt -> Password Hashing & Encryption
+Zod -> Schema Validation
 
 ## Getting Started
 
@@ -15,10 +23,6 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
