@@ -1,12 +1,15 @@
-Refer to Youtube Series about creating REST API with encryption and authentication below
+Refer to Youtube Series about creating REST API with encryption and authentication below  
 https://www.youtube.com/watch?v=RCi6EbNxBa8&list=PLap-l7PiZ8FkQl4Tn4eNr4375zy2ReSlb&pp=gAQBiAQB
 
-In this Project, we'll be using:
-NextJS13 -> Framework
-PlanetScale -> MySQL Database
-Prisma -> ORM
-Bcrypt -> Password Hashing & Encryption
-Zod -> Schema Validation
+Subscribe to our channel "Web Dev Wise".  
+https://www.youtube.com/@webdevwise
+
+In this Project, we'll be using:  
+NextJS13 -> Framework  
+PlanetScale -> MySQL Database  
+Prisma -> ORM  
+Bcrypt -> Password Hashing & Encryption  
+Zod -> Schema Validation  
 
 ## Getting Started
 
